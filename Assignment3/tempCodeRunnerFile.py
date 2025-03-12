@@ -1,0 +1,1 @@
+ vowels list [’a’, ’e’, ’i’,’o’, ’i’, ’u’]
